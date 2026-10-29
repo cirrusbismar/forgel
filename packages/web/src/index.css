@@ -1,0 +1,5 @@
+@import "../styles/globals.css";
+
+.diff-gutter-omit:before {
+    background-color: transparent;
+}
